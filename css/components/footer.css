@@ -1,0 +1,18 @@
+.footer {
+  background-color: lightgrey;
+  height: 22vh;
+  text-align: center;
+}
+
+.footer li {
+  padding: 20px;
+  font-size: 30px;
+  display: inline-block;
+  color: darkgrey;
+  padding: 20px 20px 0px 20px;
+}
+
+.footer p {
+  color: darkgrey;
+  padding: 0px 0px 20px 20px;
+}

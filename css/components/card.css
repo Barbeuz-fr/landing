@@ -1,0 +1,24 @@
+.card {
+  box-shadow: 3px 3px 10px rgba(0,0,0,0.1);
+  border: 1px solid rgba(200,200,200, 0.5);
+  text-align: center;
+  width: 300px;
+}
+
+.card img {
+  /*background-image: url(https://i.f1g.fr/media/madame/656x/sites/default/files/img/2019/03/nicolas-cage-annule-son-mariage.jpg)*/
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  padding: 10px 0px;
+  object-fit: cover;
+}
+
+.card h1 {
+  font-size: 20px
+
+}
+
+.card p {
+  font-size: 16px
+}
